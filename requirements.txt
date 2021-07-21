@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.2
+bs4==0.0.1
+nltk==3.5
+numpy==1.16.6
+pandas==0.24.2
+requests==2.24.0
+selenium==3.141.0
+soupsieve==1.9.6
+urllib3==1.25.10
